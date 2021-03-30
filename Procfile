@@ -1,0 +1,1 @@
+web: gunicorn VigenereCipher.wsgi --log-file -
